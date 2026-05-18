@@ -126,8 +126,8 @@ print("Corrected Codeword =", corrected)
 ```
 # Output
 
-<img width="433" height="756" alt="image" src="https://github.com/user-attachments/assets/a1711717-6b78-45c9-869e-ee83f83fee04" />
-<img width="427" height="216" alt="image" src="https://github.com/user-attachments/assets/3593ab0e-2ec7-4a38-b295-6d8aa183352d" />
+<img width="433" height="716" alt="image" src="https://github.com/user-attachments/assets/a1711717-6b78-45c9-869e-ee83f83fee04" />
+<img width="433" height="216" alt="image" src="https://github.com/user-attachments/assets/3593ab0e-2ec7-4a38-b295-6d8aa183352d" />
 
 # Results
 Using linear block codes, errors in transmitted data can be efficiently detected and corrected, improving the reliability of communication systems without significantly increasing the data size.

@@ -1,4 +1,4 @@
-# Linear-Block-Code
+# Experimental verification of Linear-Block-Code
 # Aim
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
 # Tools required
@@ -130,4 +130,4 @@ print("Corrected Codeword =", corrected)
 <img width="427" height="216" alt="image" src="https://github.com/user-attachments/assets/3593ab0e-2ec7-4a38-b295-6d8aa183352d" />
 
 # Results
-Thus the Linear Block Code is verified using Python Program in Google Colab
+Using linear block codes, errors in transmitted data can be efficiently detected and corrected, improving the reliability of communication systems without significantly increasing the data size.
